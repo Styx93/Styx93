@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Styx93
-- 👀 I’m interested in videogames
+- 👀 I’m interested in video games
 - 🌱 I’m currently studying Computer Science at WGU
-- 💞️ I’m looking to collaborate on videogame projects
+- 💞️ I’m looking to collaborate on video game projects
 - 📫 How to reach me dstyxgamer@gmail.com or Discord: Styx#4607
 
 <!---
